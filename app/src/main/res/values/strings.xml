@@ -22,7 +22,7 @@
     <string name="nama_pemesan">Nama Pemesan : </string>
     <string name="menu">Menu Kopi : </string>
     <string name="arabika">Arabika</string>
-    <string name="american">American</string>
+    <string name="american">Americano</string>
     <string name="robusta">Robusta</string>
     <string name="sajian">Sajian : </string>
     <string name="hangat">Panas</string>
@@ -66,4 +66,7 @@
     <string name="deskripsi_about">Rumah makan ini sudah disediakan secara online. \nDisini hanya tersedia Coffee Arabica, Americano, dan Robusta. \nCoffee disini dijual dengan harga yang sangat terjangkau. \nSelamat menikmati ^^</string>
     <string name="logout">Logout</string>
     <string name="detailmenu">Detail Menu</string>
+    <string name="uang">price</string>
+    <string name="judul">Judul</string>
+    <string name="lengkap">Selengkapnya</string>
 </resources>

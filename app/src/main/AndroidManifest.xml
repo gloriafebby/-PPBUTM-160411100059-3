@@ -24,16 +24,24 @@
         <activity android:name=".pembayaran" />
         <activity android:name=".Login" />
         <activity android:name=".loginempat" />
-        <activity android:name=".modul4" />
         <activity
-            android:name=".detailmenu_modul4"
+            android:name=".About"
             android:parentActivityName=".modul4">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".modul4" />
         </activity>
-        <activity android:name=".About" />
-        <activity android:name=".modul3"></activity>
+        <activity android:name=".modul3" />
+        <activity android:name=".detailmenu" />
+        <activity android:name=".modul4" />
+        <activity
+            android:name=".americano"
+            android:parentActivityName=".modul4">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".modul4" />
+        </activity>
+        <activity android:name=".arabica"></activity>
     </application>
 
 </manifest>
